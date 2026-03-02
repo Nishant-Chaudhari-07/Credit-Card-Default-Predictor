@@ -5,7 +5,7 @@ Credit card default is a major source of financial risk for banks and lending in
 
 This project builds and evaluates machine learning models to predict whether a customer will default on their credit card payment in the next billing cycle. Using customer demographic information, credit limits, billing behavior, and repayment history, the analysis compares multiple models and selects the most effective and business-friendly approach.
 
-🔗 [Live Streamlit App](https://credit-card-default-predictor-8bv37sjw2hfxnn4q6jdaip.streamlit.app/)
+🔗 [Live Streamlit App](https://credit-card-default-predictor-sav92acbjpwue3aeyhc47a.streamlit.app/)
 
 
 ## 🎯 Business Objectives
